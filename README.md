@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-Software Development Engineer with hands-on experience in building **high-performance, scalable web applications** using **React.js** and **Spring Boot**. I specialize in optimizing frontend rendering for large datasets, modernizing legacy systems, and designing efficient backend workflows. Passionate about clean architecture, performance engineering, and problem-solving.
+Software Development Engineer with hands-on experience building **scalable web applications** using **React.js** and **Spring Boot**. I enjoy working across the stack, modernizing legacy systems, and developing clean, maintainable frontend and backend features. Passionate about writing reliable code, learning system design, and solving real-world engineering problems.
 
 ---
 
